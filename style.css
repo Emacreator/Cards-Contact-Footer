@@ -63,6 +63,23 @@ body {
 }
 
 /*-----Contact - Footer-----*/
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  padding: 70px 0;
+}
+
+.tarjet-box {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  border: 1px solid red;
+}
+
 .iframe {
   border-radius: 20px;
   width: 100%;
