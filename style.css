@@ -63,7 +63,7 @@ body {
 }
 
 /*-----Contact - Footer-----*/
-
-.info-foter {
-  margin: 0;
+.iframe {
+  border-radius: 20px;
+  width: 100%;
 }
